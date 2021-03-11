@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jueves_25/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/jueves_25/static/js/main.785bd23d.chunk.js",
+    "main.js.map": "/jueves_25/static/js/main.785bd23d.chunk.js.map",
+    "runtime-main.js": "/jueves_25/static/js/runtime-main.ad38bf94.js",
+    "runtime-main.js.map": "/jueves_25/static/js/runtime-main.ad38bf94.js.map",
+    "static/js/2.d0be9f48.chunk.js": "/jueves_25/static/js/2.d0be9f48.chunk.js",
+    "static/js/2.d0be9f48.chunk.js.map": "/jueves_25/static/js/2.d0be9f48.chunk.js.map",
+    "static/js/3.a31b8162.chunk.js": "/jueves_25/static/js/3.a31b8162.chunk.js",
+    "static/js/3.a31b8162.chunk.js.map": "/jueves_25/static/js/3.a31b8162.chunk.js.map",
+    "index.html": "/jueves_25/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/jueves_25/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d0be9f48.chunk.js.LICENSE.txt": "/jueves_25/static/js/2.d0be9f48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad38bf94.js",
+    "static/js/2.d0be9f48.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.785bd23d.chunk.js"
+  ]
+}
